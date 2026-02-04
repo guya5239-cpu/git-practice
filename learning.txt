@@ -1,1 +1,4 @@
 I'm lerning how to create and track a text file, it seems relatively simple. I'm also learning how to initialize git repository as well.
+I am learning Git fundamentals.
+Git tracks every change I make.
+I can commit my work to save progress
