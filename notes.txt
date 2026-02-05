@@ -1,0 +1,4 @@
+3 Things I've learned about Git/GitHub:
+I've learned that GitHub helps produce collaborations way more than Git.
+I've learned that Git tracks your changes locally.
+I've learned that GitHub helps others see your code as well.
