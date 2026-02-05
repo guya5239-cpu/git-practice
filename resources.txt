@@ -3,3 +3,6 @@ The step 2 terminal review from the first part of this lesson helped me remember
 The key essential takeaways at the end of each lesson helps me summaraize what i've learned while filtering out things I do not really need
 to worry about.
 The key concepts section on the second part of this less helps me get a brief overview of what the repository, push, pull, and remote commands do.
+4th section:
+I liked seeing the differences between "Git" and "GitHub" in the second part of this lesson. Seeing the differences between the two
+helps me understand why we're using one over the other/both.
